@@ -44,7 +44,6 @@ C++ implementation and analysis of algorithms for solving maximum subsequence pr
 
 ### [Absence Students Management PHP Web Application](https://github.com/paulchris7gestion-absences-ensa)  
 Web app for student absence management with admin and student interfaces; upcoming features include QR code and absence justification.
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -53,7 +52,6 @@ Web app for student absence management with admin and student interfaces; upcomi
 
 ### [Haitian Scrabble Game - Pygame](https://github.com/paulchris7/Haitian-Scrabble-Game)  
 C++ implementation of the popular word game Scrabble, with a twist—it's tailored for the Haitian Creole language.
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---
