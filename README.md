@@ -36,12 +36,12 @@ I love building clean, scalable web applications and learning new technologies e
 ---
 
 ## 🔥 Featured Projects
-### [Personal Portfolio Website](https://paulchris7.github.io/portfolio_website/)  
+### [Personal Portfolio Website](https://github.com/paulchris7/portfolio_website)  
 This repository contains the source code for my personal portfolio website. It showcases my skills, projects, and journey as a developer and graphic designer.  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
+Live Demo: [![Website](https://img.shields.io/badge/website-visit-blue?style=flat&logo=google-chrome)](https://paulchris7.github.io/portfolio_website/)
 
 ### [Maximum Subsequence Problems](https://github.com/paulchris7/Easy-Voice-Assistant)  
 C++ implementation and analysis of algorithms for solving maximum subsequence problems, including performance tests and a Python script for result visualization.  
