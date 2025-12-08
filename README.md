@@ -1,79 +1,59 @@
-# 👋 Hi, I’m Paul Chris
+# Hi, I’m Chris
 
-**Full-stack Developer | Tech Enthusiast | Problem Solver**
+**Computer Engineering Student | Systems & Algorithms Enthusiast | Aspiring Researcher**
 
-I love building clean, scalable web applications and learning new technologies every day. Passionate about creating efficient and elegant solutions with code.
+I am a fourth-year Computer Engineering student at ENSA Marrakech. With a strong foundation in software development, I am currently expanding my focus toward **Systems Engineering**, **Security**, and **Algorithmic Complexity**.
+
+I enjoy digging into how software works under the hood—from web backends to compiler internals—and I am passionate about building efficient, reliable, and secure systems.
 
 ---
 
-## 🚀 Skills & Technologies
+## 🔭 Technical Interests
+* **Systems Programming:** Low-level development, C/C++, Memory Management.
+* **Software Security:** Understanding vulnerabilities, Sanitization, Safe Coding.
+* **Algorithmic Theory:** Optimization, Complexity Analysis, Data Structures.
+* **Compiler Basics:** Exploring how code is analyzed and transformed (GCC/GIMPLE).
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
-### Frameworks & Tools
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=matlab&logoColor=white)
+### Tools & Frameworks
+![GCC](https://img.shields.io/badge/-GCC_Internals-000000?style=flat&logo=gnu&logoColor=white)
+![Z3](https://img.shields.io/badge/-Z3_Prover-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=white)
-
-### Certifications
-![Illinois Tech](https://img.shields.io/badge/-Illinois_Tech-FF6F00?style=flat&logo=university&logoColor=white)
-![Meta Front-End](https://img.shields.io/badge/-Meta_Front--End-1877F2?style=flat&logo=facebook&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
-### [Personal Portfolio Website](https://github.com/paulchris7/portfolio_website)  
-This repository contains the source code for my personal portfolio website. It showcases my skills, projects, and journey as a developer and graphic designer.  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 🚀 Key Projects
 
-Live Demo: [![Website](https://img.shields.io/badge/website-visit-blue?style=flat&logo=google-chrome)](https://paulchris7.github.io/portfolio_website/)
+### 🛡️ [GCC Plugin for Memory Safety](https://github.com/paulchris7/gcc-memory-verifier)
+*Active Development*
+Exploring static analysis by building a GCC plugin that detects memory safety violations (Use-After-Free) using the GIMPLE IR and Z3 solver.
+* **Focus:** Compiler Instrumentation, Static Analysis.
 
-### [Maximum Subsequence Problems](https://github.com/paulchris7/Easy-Voice-Assistant)  
-C++ implementation and analysis of algorithms for solving maximum subsequence problems, including performance tests and a Python script for result visualization.  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+### 📊 [Maximum Subarray Analysis](https://github.com/paulchris7/Maximum-Subarray-Analysis)
+A comparative study of algorithmic paradigms, implementing and benchmarking solutions from $O(n^3)$ to $O(n)$ complexity.
+* **Focus:** Asymptotic Analysis, Benchmarking, Performance.
 
-### [Absence Students Management PHP Web Application](https://github.com/paulchris7gestion-absences-ensa)  
-Web app for student absence management with admin and student interfaces; upcoming features include QR code and absence justification.   
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### [Haitian Scrabble Game - Pygame](https://github.com/paulchris7/Haitian-Scrabble-Game)  
-C++ implementation of the popular word game Scrabble, with a twist—it's tailored for the Haitian Creole language.   
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+### 🧩 [Haitian Creole Scrabble Engine](https://github.com/paulchris7/Haitian-Scrabble-Game)
+An optimized game engine featuring a custom lexicon parser and efficient move generation algorithms.
+* **Focus:** Data Structures (Tries), Backtracking Algorithms, C++.
 
 ---
 
-## 📈 GitHub Stats
-
-![PaulChris's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulchris7&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulchris7&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Get in Touch
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paulchristaimeslg3@gmail.com)
-
----
-
-✨ Thanks for stopping by! Feel free to connect and collaborate.
-
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulchristopheraime/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:p.aime0021@uca.ac.ma)
