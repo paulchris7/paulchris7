@@ -8,7 +8,7 @@ I enjoy digging into how software works under the hood—from web backends to co
 
 ---
 
-## 🔭 Technical Interests
+## Technical Interests
 * **Systems Programming:** Low-level development, C/C++, Memory Management.
 * **Software Security:** Understanding vulnerabilities, Sanitization, Safe Coding.
 * **Algorithmic Theory:** Optimization, Complexity Analysis, Data Structures.
@@ -16,7 +16,7 @@ I enjoy digging into how software works under the hood—from web backends to co
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -37,23 +37,23 @@ I enjoy digging into how software works under the hood—from web backends to co
 
 ---
 
-## 🚀 Key Projects
+## Key Projects
 
-### 🛡️ [GCC Plugin for Memory Safety](https://github.com/paulchris7/gcc-memory-verifier)
+### [GCC Plugin for Memory Safety](https://github.com/paulchris7/gcc-memory-verifier)
 *Active Development*
 Exploring static analysis by building a GCC plugin that detects memory safety violations (Use-After-Free) using the GIMPLE IR and Z3 solver.
 * **Focus:** Compiler Instrumentation, Static Analysis.
 
-### 📊 [Maximum Subarray Analysis](https://github.com/paulchris7/Maximum-Subarray-Analysis)
+### [Maximum Subarray Analysis](https://github.com/paulchris7/Maximum-Subarray-Analysis)
 A comparative study of algorithmic paradigms, implementing and benchmarking solutions from $O(n^3)$ to $O(n)$ complexity.
 * **Focus:** Asymptotic Analysis, Benchmarking, Performance.
 
-### 🧩 [Haitian Creole Scrabble Engine](https://github.com/paulchris7/Haitian-Scrabble-Game)
+### [Haitian Creole Scrabble Engine](https://github.com/paulchris7/Haitian-Scrabble-Game)
 An optimized game engine featuring a custom lexicon parser and efficient move generation algorithms.
 * **Focus:** Data Structures (Tries), Backtracking Algorithms, C++.
 
 ---
 
-## 📫 Connect
+## Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulchristopheraime/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:p.aime0021@uca.ac.ma)
